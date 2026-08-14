@@ -6,7 +6,7 @@ Un sitio web promocional e interactivo inspirado en la estética oficial de Bliz
 
 ---
 
-## 📌 Características del Sitio
+📌 Características del Sitio
 
 - 🎮 **Estética & UI Gaming:** Diseño oscuro con acentos dorados/naranjas característicos de la interfaz del juego.
 - 📱 **Diseño 100% Responsive:** Adaptado fluido para móviles, tablets y monitores de escritorio.
@@ -19,7 +19,7 @@ Un sitio web promocional e interactivo inspirado en la estética oficial de Bliz
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+🛠️ Tecnologías Utilizadas
 
 - **HTML5:** Estructura semántica de contenidos.
 - **CSS3 & SASS (SCSS):** Uso de variables, mixins, nesting y arquitectura modular para mantener estilos limpios.
@@ -28,7 +28,7 @@ Un sitio web promocional e interactivo inspirado en la estética oficial de Bliz
 
 ---
 
-## 📂 Estructura del Repositorio
+📂 Estructura del Repositorio
 
 ```text
 ├── css/            # Estilos CSS compilados
@@ -37,3 +37,9 @@ Un sitio web promocional e interactivo inspirado en la estética oficial de Bliz
 ├── index.html      # Página principal
 ├── pages/          # Secciones secundarias
 └── README.md       # Documentación del proyecto
+
+👨‍💻 Autor
+
+Iván Tuamá
+- GitHub: https://github.com/IvanTuama98
+- LinkedIn: https://www.linkedin.com/in/ivantuama
