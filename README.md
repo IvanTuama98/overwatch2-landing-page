@@ -6,7 +6,7 @@ Un sitio web promocional e interactivo inspirado en la estética oficial de Bliz
 
 ---
 
-📌 Características del Sitio
+**📌 Características del Sitio
 
 - 🎮 **Estética & UI Gaming:** Diseño oscuro con acentos dorados/naranjas característicos de la interfaz del juego.
 - 📱 **Diseño 100% Responsive:** Adaptado fluido para móviles, tablets y monitores de escritorio.
