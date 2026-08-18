@@ -37,6 +37,8 @@ Un sitio web promocional e interactivo inspirado en la estética oficial de Bliz
 ├── index.html      # Página principal
 ├── pages/          # Secciones secundarias
 └── README.md       # Documentación del proyecto
+```
+---
 
 👨‍💻 Autor
 
